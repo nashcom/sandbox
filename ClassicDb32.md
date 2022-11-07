@@ -7,11 +7,11 @@ high: 32
 wide: 32
 hash: 
 comments: 
-modified: 20221107T103739
+modified: 20221107T104502
 ---
 ![DBIcon_ClassicDb32][1]
 
-[1]: data:image/png;base64,/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEr0lEQVR4nL2Xa2hb
+[1]: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEr0lEQVR4nL2Xa2hb
 /ZRjH32KZUuY6BwpWcDDHLogfFNxY7QRRKkpBti/SiTD8oh8E/SCUDd3X1vl9Zs5p
 /1V7Xi1ttwwa9oGXTTZP0kuXSXNvcm7RpmzSp7ezj+z99z/Gc9Jwkc+ILPxKe//P8
 //0/T5k3K2L87Ozj7OAcE+0TtfzkHGhoajthstvNOp9ME8Bw1scx/dqqY9qd8knNo

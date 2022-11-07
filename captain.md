@@ -7,11 +7,11 @@ high: 64
 wide: 64
 hash: 4599C6B6B73202BCC6C6EBD1DA0D4D318BEE6DC8
 comments: 
-modified: 20221107T103754
+modified: 20221107T104517
 ---
 ![DBIcon_captain][1]
 
-[1]: data:image/png;base64,/iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAAlZ3pUWHRSYXcgcHJv
+[1]: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAAlZ3pUWHRSYXcgcHJv
 /ZmlsZSB0eXBlIGV4aWYAAHjarZxZliQ3smT/bRW9BMMMLAfjOb2DXn5fUbhHBlms
 /eq8HJosR6YMZoIOoiEKtnv2//ud5/gf/NF/jE1OpueX88k9ssfnOL/W9/wz7r3uj
 //df+iZ+3+PtfXn9+3vC8FPgZ7l+b/7y+eZ3fw+cL7XMT9/3890LfX1znt/Tnjdk/

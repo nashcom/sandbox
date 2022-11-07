@@ -7,11 +7,11 @@ high: 64
 wide: 64
 hash: 
 comments: Domino 12.0.2 Directory
-modified: 20221107T103736
+modified: 20221107T104500
 ---
 ![DBIcon_DominoDirectory][1]
 
-[1]: data:image/png;base64,/iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAJYklEQVR4nO2bW1BV
+[1]: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAJYklEQVR4nO2bW1BV
 /VRjH6aG3xqdee1Ibu9jVtFDxllh4wSQvqICcAwflwEE4RxAHNUENp0TkeM0cDdMw
 /R0fTbDJTsxSywTQpL5GODoY3kAfTRtOvddmXtfZe61z23uBxas/sN5lx/+f//b/v
 /+6114uL+f4TPY0UrrowKrLzeUlTTCoXVl2Hm0ktQ8MEFyF/SDHnvn4Pchb/BjAVN

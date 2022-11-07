@@ -7,11 +7,11 @@ high: 64
 wide: 64
 hash: 
 comments: Domino Domain wide Certificate Store
-modified: 20221107T103735
+modified: 20221107T104459
 ---
 ![DBIcon_certstore][1]
 
-[1]: data:image/png;base64,/iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAGv0lEQVR4nO2bC2wU
+[1]: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAGv0lEQVR4nO2bC2wU
 /RRjHt9DOIEjFgNBYSAWCpgSjqEhAQISiAiIPFZpSBB+AhEKFlqdYLBobDS8NKhpU
 /QJDwKAf0KVDKq/YqRSoqCEQTUiRBIIUW4gPI5/fNzuztHaUPuN3b4zrJP8fu7XLz
 //fab7/tmO6NpDa2h1dbCUI2kGqPCA6zGpv6EWWi3aGGax2iOugPVDHWnVHObpH6v

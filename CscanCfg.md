@@ -7,11 +7,11 @@ high: 64
 wide: 64
 hash: 
 comments: Domino 12.0.2 Content Scan
-modified: 20221107T103737
+modified: 20221107T104501
 ---
 ![DBIcon_CscanCfg][1]
 
-[1]: data:image/png;base64,/iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAOAUlEQVR4nO1bCVRV
+[1]: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAOAUlEQVR4nO1bCVRV
 /VRe+ZdyLilOiluKf1p+amgOWmUOoiBqoqECWmuSUVuKAQzKJloIDKggoomL+OaKE
 /oMhgIA9kRkRMDWcGA8NQQJl5+z/73nMfjwfK472HvdbqrPWtBffdc+/e39l7n33O
 /3Ydh/m3/tn+bEu0VilcJWlC8pmUQ5XpVTl6NKf8qfQlLoEvQiqA1gR5Bm78ZelSW
